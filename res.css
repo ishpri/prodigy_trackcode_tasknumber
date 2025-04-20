@@ -1,0 +1,45 @@
+body{
+    background-color: #d4429f;
+}
+.container{
+    background-color:  #ac84ac;
+    height: 650px;
+    width: 500px;
+    padding: 20px 20px 40px 30px;
+    border-radius: 10px;
+    margin: auto;
+}
+p{
+    color: #55a992;
+    font: 50px small-caps bold times new roman;
+    text-align: center;
+}
+div p{
+    color:#fff;
+    font: 40px italic times new roman;
+    text-align: center;
+}
+button{
+    border-radius: 90px;
+    border-style: solid;
+    background-color:#59105f;
+    color: #fff;
+    font: 50px;
+    border-color:#59105f;
+}
+label{
+    color: #fff;
+    font: 15px bold times new roman;
+}
+input{
+    border-radius: 90px;
+    border-style: solid;
+    background-color:#fff;
+    border-color:rgb(0, 0, 0);
+}
+select{
+    border-radius: 90px;
+    border-style: solid;
+    background-color:#fff;
+    border-color:rgb(0, 0, 0);
+}
